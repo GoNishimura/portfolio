@@ -1,12 +1,14 @@
 # ポートフォリオ
 
 ## [機械学習/machine learning](https://github.com/GoNishimura/Challenge_of_September)
-<img src="https://gyazo.com/803fd19f9ae1cad9897bcfecdc49d74b/raw" width=200>
-<img src="https://gyazo.com/83bb573712b6aa753b691a44cc4207c1/raw" width=200>
+[手書き文字分類/MNIST](https://github.com/GoNishimura/Challenge_of_September/tree/k1)  
+<img src="https://gyazo.com/803fd19f9ae1cad9897bcfecdc49d74b/raw" width=360>
+<img src="https://gyazo.com/83bb573712b6aa753b691a44cc4207c1/raw" width=360>  
+[住宅価格予測/King County house sales prediction](https://www.kaggle.com/harlfoxem/housesalesprediction)  
 <img src="https://gyazo.com/e1e2d81e650d6aa48dc8f025c38c3c11/raw" width=400>
   
 ## [彫刻やってミュージアム/Chokoku(Sculpture)-Yatte-Museum](https://github.com/GoNishimura/chokoku_yatte_museum)
-<img src=https://github.com/GoNishimura/images/blob/master/output.gif/  width=720>
+<img src=https://github.com/GoNishimura/images/blob/master/output.gif/  width=640>
   
 ## [Re-Cursive](https://github.com/GoNishimura/Re-cursive)
 <img src="https://gyazo.com/71fc655e3d421757df37b501f924a55a/raw" width=720>
